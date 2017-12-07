@@ -29,7 +29,10 @@ Roughly in an order which reflects how often they are used.
 26. values()
 
 Probably won't cover these at all
+
 27. toSource()
 28. entries()
 29. copyWithin()
 30. toLocaleString()
+
+There is a separate file dedicated to various ways of passing functions to array methods.
